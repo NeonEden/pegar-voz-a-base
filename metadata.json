@@ -1,0 +1,6 @@
+{
+  "name": "ENCAJE · Analista de Voz vs Base",
+  "description": "Analista de acople vocal y estructura métrica para estudio de producción musical (DSP + Gemini AI).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
